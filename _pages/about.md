@@ -15,7 +15,6 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I’m Maya Atassi, a physics and astrophysics student at the University of Chicago interested in cosmology, instrumentation, and observational astrophysics.
 
 I currently work in the McMahon Cosmology Lab on absolute polarization-angle calibration for the Simons Observatory Small Aperture Telescopes. My work focuses on building and analyzing a photogrammetry-based geometry pipeline that connects image calibration and 3D reconstruction to the geometric parameters needed for electromagnetic modeling and detector calibration.
 
