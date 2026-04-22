@@ -3,9 +3,8 @@ layout: page
 title: Precision Photometry for Strongly Lensed Systems
 description: Multi-band photometry, calibration validation, and uncertainty propagation in the COOL-LAMPS collaboration.
 img: assets/img/IMG_9845.JPG
-redirect: https://unsplash.com
 importance: 3
-category: work
+category: research
 ---
 As part of the COOL-LAMPS collaboration, I work on precision photometry of strongly lensed images using multi-band imaging data. This project begins with careful aperture photometry and moves toward more model-based approaches, including tools such as GALFIT, to better characterize lensed sources.
 
