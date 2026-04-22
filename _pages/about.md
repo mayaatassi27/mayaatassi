@@ -6,7 +6,7 @@ subtitle: Physics and astrophysics student at the University of Chicago interest
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_3763.jpg
   image_circular: false # crops the image to make it circular
   address:
 
