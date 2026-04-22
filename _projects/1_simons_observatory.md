@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Absolute Polarization-Angle Calibration for Simons Observatory SAT
+permalink: /projects/simons-observatory-calibration/
 description: Photogrammetry, calibration geometry, and electromagnetic-model inputs for CMB instrumentation.
 img: assets/img/Picture1.png
 importance: 1
