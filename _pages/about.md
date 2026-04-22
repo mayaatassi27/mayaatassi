@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: Physics and astrophysics student at the University of Chicago interested in cosmology, instrumentation, and observational astrophysics.
